@@ -1,0 +1,18 @@
+max heap 18 15 14 13 11
+min heap 1 6 9 9 10
+buffer
+
+max heap 18 15 14 13 11
+min heap 1 6 9 9 10
+buffer 43
+
+min output 1
+max heap 43 18 14 15 11
+min heap 6 9 9 13 10
+buffer
+
+max output 43
+max heap 18 15 14 13
+min heap 6 9 9 11
+buffer 10
+
